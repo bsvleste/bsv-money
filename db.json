@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "price": 14000,
+      "createdAt": "2023-12-11T21:11:28.970Z",
+      "category": "Job"
+    },
+    {
+      "id": 2,
+      "description": "MC Donalds",
+      "type": "outcome",
+      "price": 100,
+      "createdAt": "2023-12-20T21:11:28.970Z",
+      "category": "Comida"
+    },
+    {
+      "id": 3,
+      "description": "App de comida",
+      "type": "income",
+      "price": 18000,
+      "createdAt": "2023-12-11T21:11:28.970Z",
+      "category": "Job"
+    },
+    {
+      "id": 4,
+      "description": "Colisão",
+      "type": "outcome",
+      "price": 100,
+      "createdAt": "2023-12-20T21:11:28.970Z",
+      "category": "Lazer"
+    },
+    {
+      "description": "Luz",
+      "price": 150,
+      "type": "outcome",
+      "category": "Casa",
+      "createdAt": "2023-12-12T17:27:40.300Z",
+      "id": 5
+    },
+    {
+      "description": "desenvolvimento de app",
+      "price": 20000,
+      "type": "income",
+      "category": "Job",
+      "createdAt": "2023-12-12T17:31:01.336Z",
+      "id": 6
+    },
+    {
+      "description": "banho amora",
+      "price": 150,
+      "type": "outcome",
+      "category": "Pet",
+      "createdAt": "2023-12-12T17:42:53.681Z",
+      "id": 7
+    },
+    {
+      "description": "App de casa",
+      "price": 1800,
+      "type": "income",
+      "category": "job",
+      "createdAt": "2023-12-12T17:43:34.870Z",
+      "id": 8
+    },
+    {
+      "description": "agua de coco",
+      "price": 13,
+      "type": "outcome",
+      "category": "comida",
+      "createdAt": "2023-12-15T18:42:28.028Z",
+      "id": 9
+    },
+    {
+      "description": "cerveja",
+      "price": 50,
+      "type": "outcome",
+      "category": "lazer",
+      "createdAt": "2023-12-15T18:48:16.705Z",
+      "id": 10
+    },
+    {
+      "description": "limao",
+      "price": 40,
+      "type": "income",
+      "category": "comida",
+      "createdAt": "2023-12-15T18:52:24.000Z",
+      "id": 11
+    },
+    {
+      "description": "pao",
+      "price": 45,
+      "type": "outcome",
+      "category": "job",
+      "createdAt": "2023-12-15T18:53:39.413Z",
+      "id": 12
+    }
+  ]
+}
